@@ -1,1 +1,1 @@
-# rag-multimodal-recommender
+A next-gen recommender system that combines RAG (to retrieve relevant content), multimodal AI (to process text, images, audio, or video), and personalized recommendations. Users can query with text or media, the system fetches relevant items, and generates context-aware suggestions grounded in real data—ideal for e-commerce, entertainment, or education.
